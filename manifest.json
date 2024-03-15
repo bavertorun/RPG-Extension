@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Random Password Generator Extension",
     "version": "1.0",
     "description": "A browser extension that generates random passwords.",

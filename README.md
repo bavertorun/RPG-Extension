@@ -1,1 +1,1 @@
-# This project is still under development.
+# Random Password Generator Extension
